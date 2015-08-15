@@ -1,0 +1,14 @@
+.card-background {
+	color:#2094A9;
+}
+
+h1 .card-font-color {
+	color:#666;
+}
+
+p.indeedMotto {
+	font-size: 3em;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 30%;
+}
